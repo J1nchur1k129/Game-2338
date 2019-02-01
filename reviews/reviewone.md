@@ -9,7 +9,8 @@ Monster Hunter, World  , https://store.steampowered.com/app/582010/MONSTER_HUNTE
 9/10 Very fun especially if you like grinding for items. 
 
 ## Summary
-  This game like the other entries in the series is about fighting large monsters ranging from lizards, large birds, wyverns, dragons, and even a Volcano(its's a dragon too) 
+  Monster Hunter is a game where you play as a Hunter/Reasercher in a world full of large and otherwise fantasy creatures.
+This game like the other entries in the series is about fighting large monsters ranging from lizards, large birds, wyverns, dragons, and even a Volcano(its's a dragon too) 
 After beating these monsters you can use their parts to build armor sets with different skills and 14 different weapon options that all have different trees you can build and upgrade to under each monster
 Each weapon is fundamentaly different and each have their own special quirks. Some are better at long range, others helping the party others are for pure straight damage.
 
@@ -29,7 +30,7 @@ Every week they add in or cycle through special events which get you rare and so
 
 
 ## Final Thoughts
-I like this game immensely I love being able to take on dragons and other crazy and mysterious creatures and the armor sets are beautiful.
+  I like this game immensely I love being able to take on dragons and other crazy and mysterious creatures and the armor sets are beautiful.
 Its a very fun game that makes you work for what you want. Sometimes you wont recieve the rewards you want or sometimes random people can ruin a quest for you but overall it's a great experience.
 One dissapointing thing that is being worked on though is the low amount of monsters, Theres plenty of past ones to add but its a combination of needing to update them to the new style and also adding new monsters to keep the game fresh.
 Overall not that big of a problem and asides from those small complaints the game is great It's actually currently celebrating its birthday this week.
