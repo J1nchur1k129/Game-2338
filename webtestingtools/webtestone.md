@@ -15,6 +15,7 @@ Selenium Grid
 ## Does this tool do any test case storage?
 ### yes through the selenium-IDE
 ## Does this tool allow tester to link requirements or defects to test cases?
+### The IDE takes care of recording editing and debugging during tests.
 ## If it is an automated tool, does it work with web-based tools? What languages (Java, .NET)?
 ### Scripts are recorded in Selenese, a special test scripting language for Selenium. Selenese provides commands for performing actions in a browser (click a link, select an option), and for retrieving data from the resulting pages. Selenium currently provides client APIs for Java, C#, Ruby, JavaScript, R Language and Python. 
 
@@ -27,10 +28,27 @@ Answer the below questions about each testing tool
 ## What company developed this test tool?
 ### SmartBear Software.
 ## Give at least 3 features of this test tool.
-
-Does this tool do any test case storage?
-Does this tool allow tester to link requirements or defects to test cases?
-If it is an automated tool, does it work with web-based tools? What languages (Java, .NET)?
+*Keyword Testing 
+*Scripted Testing
+*Test Record and Playback:
+*Distributed Testing: 
+*Access to Methods and Properties of Internal Objects: 
+*Bug Tracking Integration
+*Data-driven testing:
+*COM-based, Open Architecture:
+*Test Visualizer
+*Extensions and SDK
+*Support for custom controls
+*Custom keyword test operations
+*New scripting objects
+*Custom checkpoints
+*Commands for test result processing
+*Panels
+*Project items
+*Menu and toolbar items
+*Does this tool do any test case storage?
+*Does this tool allow tester to link requirements or defects to test cases?
+*If it is an automated tool, does it work with web-based tools? What languages (Java, .NET)?
 
 # 3
 
