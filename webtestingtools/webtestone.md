@@ -49,7 +49,7 @@ Answer the below questions about each testing tool
 ## Does this tool do any test case storage?
 yes
 ## Does this tool allow tester to link requirements or defects to test cases?
-
+it is able to find unnessecary actions in the tests.
 ## If it is an automated tool, does it work with web-based tools? What languages (Java, .NET)?
 TestComplete is used for testing many different application types including Web, Windows, Android, iOS, WPF, HTML5, Flash, Flex, Silverlight, .NET, VCL and Java. It automates functional testing and back-end testing like database testing. 
 
