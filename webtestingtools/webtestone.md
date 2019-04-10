@@ -5,7 +5,7 @@ Research each test tool and gather the below information, create an md file with
 Answer the below questions about each testing tool
 
 ### What is the name of the test tool?
-##selenium
+## selenium
 
 ### What company developed this test tool?
 
