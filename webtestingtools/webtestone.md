@@ -70,4 +70,4 @@ not to my knowledge
 ## If it is an automated tool, does it work with web-based tools? What languages (Java, .NET)?
 HTML, HTML5, Javascript Frameworks,Ajax, Silverlight, Flash, and Flex. C# and VB.NET code.
 
-https://dzone.com/articles/top-10-automated-software-testing-tools
+
