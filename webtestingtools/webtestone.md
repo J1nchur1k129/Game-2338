@@ -4,8 +4,9 @@ Research each test tool and gather the below information, create an md file with
 
 Answer the below questions about each testing tool
 
-What is the name of the test tool?
+**What is the name of the test tool?
 selenium
+
 What company developed this test tool?
 
 Give at least 3 features of this test tool.
@@ -24,10 +25,10 @@ Research each test tool and gather the below information, create an md file with
 
 Answer the below questions about each testing tool
 
-What is the name of the test tool?
+**What is the name of the test tool?
 *TestComplete
-What company developed this test tool?
-*SmartBear Software.
+**What company developed this test tool?
+SmartBear Software.
 Give at least 3 features of this test tool.
 
 Does this tool do any test case storage?
