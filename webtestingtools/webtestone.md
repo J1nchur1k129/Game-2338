@@ -46,9 +46,12 @@ Answer the below questions about each testing tool
 * Panels
 * Project items
 * Menu and toolbar items
-* Does this tool do any test case storage?
-* Does this tool allow tester to link requirements or defects to test cases?
-* If it is an automated tool, does it work with web-based tools? What languages (Java, .NET)?
+##Does this tool do any test case storage?
+yes
+##Does this tool allow tester to link requirements or defects to test cases?
+
+##If it is an automated tool, does it work with web-based tools? What languages (Java, .NET)?
+TestComplete is used for testing many different application types including Web, Windows, Android, iOS, WPF, HTML5, Flash, Flex, Silverlight, .NET, VCL and Java. It automates functional testing and back-end testing like database testing. 
 
 # 3
 
