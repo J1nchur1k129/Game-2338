@@ -28,27 +28,27 @@ Answer the below questions about each testing tool
 ## What company developed this test tool?
 ### SmartBear Software.
 ## Give at least 3 features of this test tool.
-*Keyword Testing 
-*Scripted Testing
-*Test Record and Playback:
-*Distributed Testing: 
-*Access to Methods and Properties of Internal Objects: 
-*Bug Tracking Integration
-*Data-driven testing:
-*COM-based, Open Architecture:
-*Test Visualizer
-*Extensions and SDK
-*Support for custom controls
-*Custom keyword test operations
-*New scripting objects
-*Custom checkpoints
-*Commands for test result processing
-*Panels
-*Project items
-*Menu and toolbar items
-*Does this tool do any test case storage?
-*Does this tool allow tester to link requirements or defects to test cases?
-*If it is an automated tool, does it work with web-based tools? What languages (Java, .NET)?
+* Keyword Testing
+* Scripted Testing
+* Test Record and Playback:
+* Distributed Testing: 
+* Access to Methods and Properties of Internal Objects: 
+* Bug Tracking Integration
+* Data-driven testing:
+* COM-based, Open Architecture:
+* Test Visualizer
+* Extensions and SDK
+* Support for custom controls
+* Custom keyword test operations
+* New scripting objects
+* Custom checkpoints
+* Commands for test result processing
+* Panels
+* Project items
+* Menu and toolbar items
+* Does this tool do any test case storage?
+* Does this tool allow tester to link requirements or defects to test cases?
+* If it is an automated tool, does it work with web-based tools? What languages (Java, .NET)?
 
 # 3
 
