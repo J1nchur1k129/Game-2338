@@ -55,21 +55,19 @@ TestComplete is used for testing many different application types including Web,
 
 # 3
 
-Research at least three test tools on the Internet designed for testing websites.
-
-Research each test tool and gather the below information, create an md file with your answers.
-
-Answer the below questions about each testing tool
-
 ## What is the name of the test tool?
 ### Ranorex
 ## What company developed this test tool?
-###
+###Ranorex GmbH
 ## Give at least 3 features of this test tool.
-
-Does this tool do any test case storage?
-Does this tool allow tester to link requirements or defects to test cases?
-If it is an automated tool, does it work with web-based tools? What languages (Java, .NET)?
-
+* GUI object recognition
+* Object-based record and replay
+* Cross-browser testing for Chrome, Safari, Microsoft Edge, Internet Explorer, and Firefox[
+## Does this tool do any test case storage?
+records the user's interaction with a desktop or web-based application and creates user-maintainable scripts that can be edited with the Ranorex Studio action editor
+## Does this tool allow tester to link requirements or defects to test cases?
+not to my knowledge
+## If it is an automated tool, does it work with web-based tools? What languages (Java, .NET)?
+HTML, HTML5, Javascript Frameworks,Ajax, Silverlight, Flash, and Flex. C# and VB.NET code.
 
 https://dzone.com/articles/top-10-automated-software-testing-tools
